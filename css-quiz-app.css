@@ -1,0 +1,142 @@
+<<<<<<< HEAD
+.inner-panel{
+	margin: auto;
+	width: 40%;
+	height: 380px;
+	padding: 30px;
+	margin-top: 70px;
+	background-color:#6666ff;
+}
+fieldset{
+	border: none;
+}
+#question-div{
+	height: 90px;
+	width: auto;
+	}
+#results-page{
+	text-align: center;
+	font-size: 30px;
+}
+#options-div{
+	height: 150px;
+	width: auto;
+}
+.background-color{
+	background-color: #26004d; /* dark purple */
+}
+li{
+	text-align: left;
+	font-size: 20px;
+}
+.center {
+	text-align: center;
+	margin: 0 auto;
+}
+.hidden {
+	display: none; /* visibility: hidden will take space. display: none will not.; */
+}
+.label {
+	font-weight: bold;
+	font-size: 30px;
+	margin-top: 5px;
+}
+.font {
+	font-family: "ar cena";
+}
+#results_div{
+	background-color:#6666ff;
+	width: 668.5px;
+	margin-left: -30px;
+}
+#question_num{
+	text-align: center;
+}
+h1 {
+	padding-top:40px;
+	color: #6666ff;
+	font-size: 40px;
+}
+.button{
+	width: 120px;
+	height: 50px;
+	margin-top: 50px;
+	font-size: 30px;
+	
+=======
+.inner-panel{
+	margin: auto;
+	width: 40%;
+	height: 380px;
+	padding: 30px;
+	margin-top: 70px;
+	background-color:#6666ff;
+}
+fieldset{
+	border: none;
+}
+#question-div{
+	height: 90px;
+	width: auto;
+	
+}
+#question_positioning{
+	margin-top: -20px;
+}
+#results-page{
+	text-align: center;
+	font-size: 30px;
+}
+#options-div{
+	height: 150px;
+	width: auto;
+	
+}
+.background-color{
+	background-color: #26004d; /* dark purple */
+}
+li{
+	text-align: left;
+	font-size: 20px;
+}
+.center {
+	text-align: center;
+	margin: 0 auto;
+}
+.hidden {
+	display: none; /* visibility: hidden will take space. display: none will not.; */
+}
+.label {
+	font-weight: bold;
+	font-size: 30px;
+	margin-top: 5px;
+}
+.font {
+	font-family: "ar cena";
+}
+#results_div{
+	background-color:#6666ff;
+	width: 668.5px;
+	margin-left: -30px;
+}
+#question_num{
+	
+	position: relative;
+	left: 300px;
+}
+h1 {
+	padding-top:40px;
+	color: #6666ff;
+	font-size: 40px;
+}
+#score_keeper{
+	text-align: left;
+	position: absolute;
+}
+.button{
+	width: 120px;
+	height: 50px;
+	margin-top: 50px;
+	font-size: 30px;	
+>>>>>>> 3582612fa06f1e65ebd81e140c26326cd0e46918
+}
